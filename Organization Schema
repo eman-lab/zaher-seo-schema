@@ -1,0 +1,55 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Organization"],
+  "@id": "https://zaher.io/#organization",
+  "name": "zaher",
+  "alternateName": ["zaher", "منصه زاهر الرقميه","زاهر"],
+  "slogan": "زاهر – كل أدوات النجاح الرقميه في منصة واحدة",
+  "description": "زاهر تجمع بين سهولة الاستخدام واحترافية الأدوات – لمَن يريد بيع المنتجات، تقديم الخدمات، أو إطلاق متجر رقمي شامل",
+  "knowsAbout": [
+    "منصة زاهر الرقمية",
+    "إنشاء متجر الكتروني متكامل",
+    "نظام مدفوعات آمن وموثوق",
+    "ادوات تحليل وتسويق",
+    "إنشاء موقع الكتروني احترافي",
+    "المنتجات الرقمية",
+    "نظام حجز المواعيد",
+    "إدارة حجوزاتك بسهوله",
+    "الويبنار والبث المباشر",
+    "أدوات تصميم مواقع بدون كود",
+    "أدوات التسويق عبر البريد الإلكتروني",
+    "أدوات تحليلات المبيعات وسلوك المستخدم",
+    "بيع المنتجات الرقمية بسهولة",
+    " حلول للشركات الصغيرة والمتوسطة",
+    "أدوات لأصحاب المنتجات الرقمية"
+  ],
+  "url": "https://zaher.io/",
+  "founder": {
+    "@type": "Person",
+    "name": "Yaser Qaniwi"
+  },
+  "foundingDate": "2023",
+  "logo": {
+    "@type": "ImageObject",
+    "@id": "https://zaher.io/#logo",
+    "url": "https://zaher.io/logo.svg",
+    "contentUrl": "https://zaher.io/logo.svg",
+    "caption": "https://zaher.io/",
+    "inLanguage": "en-KSA"
+
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/usezaher/",
+    "https://www.facebook.com/people/Zaher/100093381807536/",
+    "https://x.com/UseZaher",
+    "https://www.instagram.com/useZahe"
+  ],
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+966544662263",
+    "contactType": "خدمة العملاء",
+    "email": "info@zaher.io"
+  }]
+}
+</script>
