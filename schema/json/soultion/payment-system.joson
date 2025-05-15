@@ -1,0 +1,73 @@
+<script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://zaher.io/solutions/payment-system",
+      "name": "نظام الدفع الإلكتروني من زاهر",
+      "url": "https://zaher.io/solutions/payment-system",
+      "description": "نظام مدفوعات آمن وموثوق من زاهر يتيح لك استقبال المدفوعات من أي مكان في العالم بسهولة وأمان، مع دعم لوسائل الدفع المختلفة وتكامل سهل مع متجرك الإلكتروني."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://zaher.io/solutions/payment-system#service",
+      "name": "نظام الدفع الإلكتروني",
+      "description": "خدمة متكاملة لاستقبال المدفوعات عبر الإنترنت تدعم فيزا، ماستركارد، أبل باي، جوجل باي، وغيرها. توفر تكاملًا مع بوابات الدفع مثل Stripe وPayPal، مع تقارير مالية دورية وشاملة.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://zaher.io/#organization",
+        "name": "منصة زاهر"
+      },
+      "serviceType": "نظام مدفوعات إلكتروني SaaS",
+      "areaServed": {
+        "@type": "Country",
+        "name": "المملكة العربية السعودية"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "رواد الأعمال، المبدعين، التجار، المستشارين"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": {
+          "@type": "Place",
+          "name": "Online"
+        },
+        "availableLanguage": [
+          {
+            "@type": "Language",
+            "name": "ar"
+          },
+          {
+            "@type": "Language",
+            "name": "en"
+            }
+            ]
+          },
+                "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "باقات الاشتراك",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "الباقة المجانية",
+            "price": "0.00",
+            "priceCurrency": "SAR",
+            "description": "ابدأ متجرك مجانًا مع ميزات أساسية لإنشاء متجر إلكتروني."
+          },
+          {
+            "@type": "Offer",
+            "name": "الباقة الاحترافية",
+            "price": "49.00",
+            "priceCurrency": "SAR",
+            "description" :  "ميزات متقدمه لدعم الفيزا , ماستر كارد ,ابل باي ,جوجل باي ,وغيرها"
+         }
+    
+        ]
+      }
+    }
+  ]
+}
+</script>
