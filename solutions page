@@ -1,0 +1,51 @@
+<script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://zaher.io/solutions",
+      "url": "https://zaher.io/solutions",
+      "name": "جميع حلول منصة زاهر",
+      "description": "استعرض جميع الحلول والخدمات التي تقدمها زاهر.",
+      "inLanguage": "ar"
+    },
+    {
+      "@type": "ItemList",
+      "name": "حلول منصة زاهر",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://zaher.io/solutions/online-store#service"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://zaher.io/solutions/payment-system#service"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://zaher.io/solutions/marketing-tools#service"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://zaher.io/solutions/website-design#service"
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
