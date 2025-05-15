@@ -1,0 +1,72 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://zaher.io/solutions/online-store",
+      "name": "حل المتجر الإلكتروني من زاهر",
+      "url": "https://zaher.io/solutions/online-store",
+      "description": "منصة زاهر توفر لك أدوات احترافية لإطلاق متجرك الإلكتروني بسهولة وبدون خبرة في التصميم أو البرمجة، مع نظام مدفوعات آمن وحلول تسويق متقدمة."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://zaher.io/solutions/online-store#service",
+      "name": "متجر متكامل لتجارتك الالكترونية",
+      "description": "خدمة متكاملة لإنشاء وإدارة متجر إلكتروني احترافي، تشمل نظام مدفوعات آمن، أدوات تسويق وتحليلات متقدمة، ودعم للمنتجات الرقمية والحجوزات.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://zaher.io/#organization",
+        "name": "منصة زاهر"
+      },
+      "serviceType": "منصة تجارة إلكترونية SaaS",
+      "areaServed": {
+        "@type": "Country",
+        "name": "المملكة العربية السعودية"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "رواد الأعمال، المبدعين، التجار، اصحاب الاعمال الصغيره"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": {
+          "@type": "Place",
+          "name": "online"
+        },
+        "availableLanguage": [
+          {
+            "@type": "Language",
+            "name": "ar"
+          },
+          {
+            "@type": "Language",
+            "name": "en"
+          }
+        ]
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "باقات الاشتراك",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "الباقة المجانية",
+            "price": "0.00",
+            "priceCurrency": "SAR",
+            "description": "ابدأ متجرك مجانًا مع ميزات أساسية لإنشاء متجر إلكتروني."
+          },
+          {
+            "@type": "Offer",
+            "name": "الباقة الاحترافية",
+            "price": "49.00",
+            "priceCurrency": "SAR",
+            "description": "ميزات متقدمة تشمل أدوات تسويق وتحليلات متقدمة ودعم فني مخصص."
+          }
+          
+        ]
+      }
+    }
+  ]
+}
+</script>
