@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://zaher.io/blog/your-post-slug"
+  },
+  "headline": "عنوان المقالة هنا",
+  "description": "ملخص المقال أو الفقرة الافتتاحية بشكل مختصر .",
+  "image": "https://zaher.io/images/blog/post-cover.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "اسم الكاتب"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "منصة زاهر",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://zaher.io/logo.svg"
+    }
+  },
+  "datePublished": "2025-05-13",
+  "dateModified": "2025-05-13",
+  "inLanguage": "ar"
+}
+</script>
