@@ -1,0 +1,52 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://zaher.io/solutions/website-design",
+      "url": "https://zaher.io/solutions/website-design",
+      "name": "تصميم مواقع إلكترونية احترافية مع زاهر",
+      "description": "احصل على موقع إلكتروني احترافي دون الحاجة لخبرة برمجية، مع أدوات تسويق مدمجة وتكامل مع تطبيقات الأتمتة."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://zaher.io/solutions/website-design#service",
+      "name": "خدمة تصميم المواقع",
+      "description": "خدمة تصميم مواقع إلكترونية احترافية تتيح لك إنشاء موقع متجاوب مع أدوات تسويق مدمجة وتكامل مع تطبيقات الأتمتة.",
+       "provider": {
+        "@type": "Organization",
+        "@id": "https://zaher.io/#organization",
+        "name": "منصة زاهر"
+      },
+      "serviceType": "تصميم مواقع إلكترونية",
+      "areaServed": {
+        "@type": "Country",
+          "name": "المملكة العربية السعودية"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "رواد الأعمال، المبدعين، الشركات الصغيرة والمتوسطة"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": {
+          "@type": "Place",
+          "name": "online"
+        },
+        "availableLanguage": [
+          {
+            "@type": "Language",
+            "name": "ar"
+          },
+          {
+            "@type": "Language",
+            "name": "en"
+          }
+        ]
+      
+     }
+     }
+  ]
+}
+</script>
