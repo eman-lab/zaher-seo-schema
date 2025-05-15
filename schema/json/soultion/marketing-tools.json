@@ -1,0 +1,72 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://zaher.io/solutions/marketing-tools",
+      "name": "أدوات تسويقية مدمجة لزيادة المبيعات",
+      "url": "https://zaher.io/solutions/marketing-tools",
+      "description": "أدوات تسويق وتحليل متقدمة تساعدك على الوصول إلى عملاء أكثر، وتحويلهم إلى عملاء دائمين."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://zaher.io/solutions/marketing-tools#service",
+      "name": "أدوات التسويق الذكية",
+      "description": "خدمة متكاملة تقدم أدوات تسويق وتحليل متقدمة لزيادة مبيعاتك وتحسين أداء متجرك الإلكتروني.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://zaher.io/#organization",
+        "name": "منصة زاهر"
+      },
+      "serviceType": "خدمة أدوات التسويق والتحليل",
+      "areaServed": {
+        "@type": "Country",
+        "name": "المملكة العربية السعودية"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "رواد الأعمال، المبدعين، التجار، المستشارين"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": {
+          "@type": "Place",
+          "name": "online"
+        },
+        "availableLanguage": [
+          {
+            "@type": "Language",
+            "name": "ar"
+          },
+          {
+            "@type": "Language",
+            "name": "en"
+          }
+        ]
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "باقات الاشتراك",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "الباقة المجانية",
+            "price": "0.00",
+            "priceCurrency": "SAR",
+            "description": "ابدأ متجرك مجانًا مع ميزات أساسية لإنشاء متجر إلكتروني."
+          },
+          {
+            "@type": "Offer",
+            "name": "الباقة الاحترافية",
+            "price": "49.00",
+            "priceCurrency": "SAR",
+            "description": "ميزات متقدمة تشمل أدوات تسويق وتحليلات متقدمة ودعم فني مخصص."
+          }
+    
+        ]
+      }
+    }
+  ]
+}
+</script>
