@@ -1,1 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": " ",
+  "image": "  ",
+  "description": " ",
+  "brand": {
+    "@type": "Brand",
+    "name": "store name"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": " ",
+    "priceCurrency": "SAR",
+    "price": " ",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "store name"
+    }
+  }
+}
+</script>
 
