@@ -6,6 +6,7 @@
     "@type": "WebPage",
     "@id": "https://zaher.io/blog/your-post-slug"
   },
+  "url": "https://zaher.io/blog/your-post-slug",
   "headline": "عنوان المقالة هنا",
   "description": "ملخص المقال أو الفقرة الافتتاحية بشكل مختصر .",
   "image": "main image",
