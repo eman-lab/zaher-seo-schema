@@ -1,5 +1,4 @@
 <script type="application/ld+json">
-
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -24,13 +23,14 @@
   },
   "datePublished": "date",
   "dateModified": "date",
-  "inLanguage": "ar"
-  "isAccessibleForFree": true,                         
-  "wordCount": " ",                                 
+  "inLanguage": "ar",
+  "isAccessibleForFree": true,
+  "wordCount": " ",
   "potentialAction": {
     "@type": "ReadAction",
     "target": [
       "https://zaher.io/blog/your-post-slug"
     ]
+  }
 }
 </script>
